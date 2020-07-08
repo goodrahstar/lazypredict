@@ -24,7 +24,7 @@ Lazy Predict help build a lot of basic models without much code and helps unders
 * Free software: MIT license
 * Documentation: https://lazypredict.readthedocs.io.
 
-<a href=“https://tracking.gitads.io/?repo=lazypredict/”><img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/></a>
+<a href=“https://tracking.gitads.io/?repo=draw-neural-network/”><img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/></a>
 
 
 =====
