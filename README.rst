@@ -25,7 +25,7 @@ Lazy Predict help build a lot of basic models without much code and helps unders
 * Documentation: https://lazypredict.readthedocs.io.
 
 
-<a href="https://tracking.gitads.io/?repo=draw-neural-network/"><img src="https://images.gitads.io/draw-neural-network/" alt="GitAds"/></a>
+<a href="https://tracking.gitads.io/?repo=draw-neural-network/"> Check out<img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/> </a>
 
 
 =====
