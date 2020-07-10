@@ -25,7 +25,7 @@ Lazy Predict help build a lot of basic models without much code and helps unders
 * Documentation: https://lazypredict.readthedocs.io.
 
 
-<a href="https://tracking.gitads.io/?repo=lazypredict"> Check out<img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/> </a>
+
 
 
 =====
@@ -150,5 +150,6 @@ Example ::
 .. warning::
     Regression and Classification are replaced with LazyRegressor and LazyClassifier.
     Regression and Classification classes will be removed in next release
-
+    
+<a href="https://tracking.gitads.io/?repo=lazypredict/"> Check out<img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/> </a>
 
